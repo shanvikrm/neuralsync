@@ -64,4 +64,4 @@ The app will be served at **http://localhost:5173**.
 - Tailwind config lives in `tailwind.config.js`.
 - New pages can be created in `src/pages` and wired in `routes.jsx`.
 
-Enjoy hacking on **NeuralSync**! ✨
+ **NeuralSync**! ✨
